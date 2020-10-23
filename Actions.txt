@@ -1,0 +1,118 @@
+[female]
+	[kiss]
+		Kiss <M>.
+		Kiss <M>'s neck.
+		Nibble on <M>'s ear.
+		Kiss the back of <M>'s neck.
+	[/kiss]
+	[touch]
+		Caress <M>'s back.
+		Massage <M>'s shoulders.
+		Caress <M>'s inner thigh.
+		Suck on <M>'s finger.
+	[/touch]
+	[intimatetouch]
+		Caress <M>'s balls while you suck on his neck.
+		Give <M> a handjob while you kiss his neck.
+		Give <M> a handjob while you kiss down his body.
+		Suck on <M>'s finger while you caress his dick.
+		Spoon behind <M> and give him a handjob.
+		Lay on your side and have <M> lay on his side facing you.  Kiss him deeply as you caress his balls.
+		Lay on your side and have <M> lay on his side facing you.  Kiss him deeply as you give him a handjob.
+	[/intimatetouch]
+	[lightoral]
+		Have <M> lay on his back.  Slowly lick from the base of his dick to the tip, then back down again.
+		Have <M> lay on his back.  Rest your head on his stomach and suck on the tip of his dick.
+		Lick <M>'s dick while you caress his inner thighs.
+		Lick <M>'s dick while you caress his balls.
+		Lay on your side at the edge of the bed facing out with <M> standing in front of you. Slowly stroke his dick as you lick the tip.
+	[/lightoral]
+	[oral]
+		Go down on <M> while you caress his balls.
+		Have <M> lean over you.  Go down on him while you caress his balls.
+		Have <M> lean over you.  Tickle him as you go down on him.
+		Have <M> lay on his back.  Use the vibrator on his balls as you go down on him.
+		Have <M> lay on his back.  Tickle his thighs as you go down on him.
+		Go down on <M>
+		Pick the position that lets you go down deepest on <M>.  Slowly take him in, then slowly back out.  Repeat a few times.
+		Lay on your side at the edge of the bed facing out with <M> standing in front of you. Go down on him, use your hand to move his hips.
+	[/oral]
+	[lightsex]
+		Lay on your back with <M> between your legs.  Use his dick to stimulate your clit.
+		Get on all fours and let <M> stimulate you with his dick.
+		Have <M> lay on his back.  Get on top of him and grind your clit against his dick.
+	[/lightsex]
+	[sex]
+		Have <M> lay on his back.  Have sex with him in the cowgirl position (you on top, facing him).
+		Lean over the edge of the bed.  Let <M> have sex with you from behind.
+		Let <M> enter you from behind.  Use your hips to control having sex with him.
+		Have <M> enter you in the missionary position.  Wrap your legs around him and use them to control his movements.
+		Have <M> lay on his back.  Have sex with him in the reverse cowgirl position (you on top, facing away from him).
+	[/sex]
+	[massage]
+		You should never see this, something broke.
+	[/massage]
+	[heavymassage]
+		You should never see this, something broke.
+	[/heavymassage]
+[/female]
+[male]
+	[kiss]
+		Kiss <F>.
+		Kiss <F>'s neck.
+		Kiss the back of <F>'s neck while you rub her shoulders.
+	[/kiss]
+	[touch]
+		Massage <F>'s shoulders.
+		Massage <F>'s calves.
+		Massage <F>'s back.
+		Massage <F>'s knees.
+	[/touch]
+	[intimatetouch]
+		Massage <F>'s breasts.
+		Sit behind <F>.  Caress her sides as you kiss her neck.
+		Have <F> lay on her stomach.  Tease her with the vibrator while you massage her back.
+		Have <F> lay on her back.  Massage her pussy.
+		Finger <F>.
+		Tease <F> with the vibrator as you massager her bum.
+		Lay on your side and have <F> lay on her side facing you.  Kiss her deeply as you stimualate her pussy.
+	[/intimatetouch]
+	[lightoral]
+		Have <F> lay on her back.  Kiss from her neck down to her pelvis, then lick her pussy slowly once.
+		Slowly lick <F>'s pussy a few times.
+		Use the vibrator on <F> as you tease her clit with your tounge.
+	[/lightoral]
+	[oral]
+		Finger <F> while you go down on her
+		Use the vibrator to stimulate <F>'s clit while you go down on her.
+		69 with <F>.
+		Go down on <F>.
+		Have <F> lean over the edge of the bed.  Go down on her from behind.
+		Have <F> postion herself with her bum on the edge of the bed.  Kneel in front of her and go down on her.
+		Have <F> lay on her side with one leg propped up.  Rest your head on her other leg and go down on her.
+	[/oral]
+	[lightsex]
+		Have <F> lay on her back, with you between her legs.  Use your dick to stimulate her.
+		Have <F> lay on her back.  Use the vibrator on her while you slowly enter her a few times.
+		Have <F> lean over the edge of the bed.  Slide the vibrator inside her then use your dick to stimulate her.
+		Have <F> get on all fours.  Slowly enter her a few time.
+		Have <F> get on all fours.  Tease her with your dick and the vibrator.
+	[/lightsex]
+	[sex]
+		Have <F> lean over the edge of the bed.  Have sex with her from behind.
+		Have <F> get on all fours. Have sex with her from behind.
+		Have <F> lay on her back.  Use the vibrator on her as you have sex with her.
+	[/sex]
+	[massage]
+		Have <F> lay on her stomach. Give her a full backrub.
+		Sit behind <F>.  Massage her shoulders while you kiss her neck.
+		Sit behind <F>.  Massage her breasts while you kiss her neck.
+		Have <F> lay on her back.  Massage her breasts while you suck on her nipples. 
+		Have <F> lay on her back.  Tease her with the vibrator as you massage her thighs.
+	[/massage]
+	[heavymassage]
+		Use the vibrator to massage <F>'s clit while you suck on her breasts.
+		Have <F> lay on her stomach.  Slide the vibrator into her then massage her back and shoulders.
+		Have <F> lay on her stomach.  Slide the vibrator into her then massage her calves and thighs.
+	[/heavymassage]
+[/male]
