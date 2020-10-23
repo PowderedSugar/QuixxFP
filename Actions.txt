@@ -4,6 +4,8 @@
 		Kiss <M>'s neck.
 		Nibble on <M>'s ear.
 		Kiss the back of <M>'s neck.
+		Test 1
+		Test 2
 	[/kiss]
 	[touch]
 		Caress <M>'s back.
