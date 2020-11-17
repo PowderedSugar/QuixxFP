@@ -1,0 +1,68 @@
+[items]
+	Vibrator,1
+	Blindfold,1
+	Massage Table,0
+[/items]
+[female]
+	[kiss]
+
+	[/kiss]
+	[touch]
+		[Blindfold]Blindfold <M> and have him sit up in the bed.  Caress his body.
+	[/touch]
+	[intimatetouch]
+		[massage table]Have <M> lay on his back on the massage table.  Give him a handjob while you caress his balls.
+	[/intimatetouch]
+	[lightoral]
+		[blindfold]Blindfold <M> and have him lay on his back.  Lick and kiss his dick.
+	[/lightoral]
+	[oral]
+		[vibrator]Have <M> lay on his back.  Use the vibrator on his balls as you go down on him.
+		[blindfold]Blindfold <M> and have him lay on his back.  Stand beside the bed and go down on him.
+	[/oral]
+	[lightsex]
+	
+	[/lightsex]
+	[sex]
+	
+	[/sex]
+	[massage]
+	
+	[/massage]
+	[heavymassage]
+	
+	[/heavymassage]
+[/female]
+[male]
+	[kiss]
+	
+	[/kiss]
+	[touch]
+		[massage table]Have <F> lay on the massage table.  Massage her back and shoulders.
+		[Blindfold]Blindfold <F> and have her sit up in the bed.  Caress her body.
+	[/touch]
+	[intimatetouch]
+		[vibrator]Have <F> lay on her stomach.  Tease her with the vibrator while you massage her back
+		[vibrator]Tease <F> with the vibrator as you massager her bum.
+	[/intimatetouch]
+	[lightoral]
+		[vibrator]Use a vibrator on <F> as you tease her clit with your tounge.
+	[/lightoral]
+	[oral]
+		[vibrator]Use the vibrator to stimulate <F>'s clit while you go down on her.
+	[/oral]
+	[lightsex]
+		[vibrator]Have <F> lay on her back.  Use the vibrator on her while you slowly enter her a few times.
+	[/lightsex]
+	[sex]
+		[vibrator]Have <F> lay on her back.  Use the vibrator on her as you have sex with her.
+	[/sex]
+	[massage]
+		[vibrator]Have <F> lay on her back.  Tease her with the vibrator as you massage her thighs.
+	[/massage]
+	[heavymassage]
+		[vibrator]Use the vibrator to massage <F>'s clit while you suck on her breasts.
+		[vibrator]Have <F> lay on her stomach.  Slide the vibrator into her then massage her back and shoulders.
+		[vibrator]Have <F> lay on her stomach.  Slide the vibrator into her then massage her calves and thighs.
+	[/heavymassage]
+[/male]
